@@ -1,6 +1,6 @@
 > ## Exploratory Data Analysis of Aircraft Crashes and Fatalites 
 
-* Objective: The objective of this project is to analyze historical aircraft crash data and derive meaningful insights related to crash statistics, crash reasons, and notable trends. The analysis aims to provide a comprehensive understanding of aircraft crashes, including yearly crash counts, passenger statistics, survival rates, operator and aircraft involvement, crash reasons, and associated fatalities.
+* Objective: The objective of this project is to analyze historical aircraft crash data and derive meaningful insights related to crash statistics, crash reasons, and notable trends.
 
 * Project Approach: 
     1. Data Loading: We will start by loading the aircraft crash dataset, ensuring that all relevant fields, such as crash year, passenger count, survival status, operator, aircraft type, and crash summary, are available for analysis.
